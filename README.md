@@ -2,6 +2,17 @@
 
 A full-stack recruitment platform with user authentication, profile management, and secure API endpoints.
 
+## Documentation
+
+This project includes comprehensive documentation covering various aspects of the system:
+
+- [General Documentation](./DOCUMENTATION.md) - Overview of the system architecture, design decisions, and setup instructions
+- [API Documentation](./API_DOCUMENTATION.md) - Detailed API endpoints, request/response formats, and usage examples
+- [Database Schema](./DATABASE_SCHEMA.md) - Database design, relationships, and indexing strategies
+- [Architecture Guide](./ARCHITECTURE.md) - Technical architecture, component interactions, and design patterns
+- [Scaling Guide](./SCALING_GUIDE.md) - Strategies for scaling the application to handle increased load
+- [Security Guide](./SECURITY_GUIDE.md) - Security measures, vulnerabilities, and best practices
+
 ## Features
 
 - User registration and authentication using JWT
